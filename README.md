@@ -15,6 +15,17 @@ A hand-built, single-page responsive website for **Raffesia Technologies** — s
 
 This repository is a **showcase prototype only**. The **full production platform of the company is protected and remains confidential to Raffesia Technologies** — production deployments, customer data, business systems and internal tooling are *not* included here and are never published. The official live company website at [raffesia.com](https://raffesia.com) is **separate** from this prototype. What you see here is exactly what we are able to share publicly.
 
+## 🌐 Live links at a glance (presentation panel — read this first)
+
+| What | Link | Status |
+|---|---|---|
+| **Demo video of this prototype** (recorded screencast) | [`docs/demo_raffesia.mp4`](https://github.com/dgexplores/raffesia-website-prototype/blob/main/docs/demo_raffesia.mp4) — poster in the section below | ✅ in this repo |
+| **ASEP live demo** — AI Sales Executive Platform (internship project 3) | https://client-blue-nu-26.vercel.app | ✅ live (UI-only; see its [repo](https://github.com/dgexplores/smart-chatbot)) |
+| **Companion production showcase** — Indispensable Digital, growth consultancy site (internship project 2) | https://dgdeveloped.vercel.app · portfolio page: https://dgdeveloped.vercel.app/work/ | ✅ live |
+| **Official company website** | https://raffesia.com | 🔒 separate & company-confidential |
+| This prototype's live deployment | — | ⛔ intentionally not deployed — front-end prototype; the company's production platform stays confidential |
+
+
 ---
 
 ## 🎬 Demo video — what it is & how to use it
